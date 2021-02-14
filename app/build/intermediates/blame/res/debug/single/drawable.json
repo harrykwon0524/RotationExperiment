@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\harry\\Desktop\\rotate-with-orientation-scene-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\harry\\Desktop\\rotate-with-orientation-scene-master1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\harry\\Desktop\\rotate-with-orientation-scene-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\glowing_grid.bmp",
+        "source": "C:\\Users\\harry\\Desktop\\rotate-with-orientation-scene-master1\\app\\src\\main\\res\\drawable\\glowing_grid.bmp"
+    },
+    {
+        "merged": "C:\\Users\\harry\\Desktop\\rotate-with-orientation-scene-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\crate.bmp",
+        "source": "C:\\Users\\harry\\Desktop\\rotate-with-orientation-scene-master1\\app\\src\\main\\res\\drawable\\crate.bmp"
+    }
+]
